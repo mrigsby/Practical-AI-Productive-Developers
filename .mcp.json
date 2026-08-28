@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "example-docs": {
+      "command": "npx",
+      "args": ["-y", "@example/docs-mcp-server"],
+      "env": {
+        "DOCS_TOKEN": "${DOCS_TOKEN}"
+      }
+    }
+  }
+}

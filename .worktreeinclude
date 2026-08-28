@@ -1,0 +1,7 @@
+# Gitignored files to copy into each new worktree.
+# Uses .gitignore pattern syntax. Only files that match and are
+# also gitignored get copied.
+
+.env
+.env.local
+.claude/settings.local.json

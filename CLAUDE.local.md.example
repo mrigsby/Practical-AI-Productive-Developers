@@ -1,0 +1,12 @@
+# Personal Notes For This Project
+
+Copy this file to `CLAUDE.local.md`. It is gitignored, loads alongside
+CLAUDE.md, and is never shared with the team.
+
+Use it for preferences that are yours alone:
+
+- The local port you run the dev server on
+- Paths to tools that live somewhere unusual on your machine
+- Reminders about a part of the codebase you keep forgetting
+
+Never put credentials here. It is gitignored, not encrypted.

@@ -1,0 +1,11 @@
+# Claude Code local configuration - un-comment to git ignore
+# .claude/settings.local.json
+# CLAUDE.local.md
+
+# Environment
+.env
+.env.local
+
+# Dependencies and build output
+node_modules/
+dist/
